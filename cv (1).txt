@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        section {
+            margin: 20px;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #4CAF50;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            padding: 8px 0;
+            border-bottom: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>مهند فيصل العمراني</h1>
+        <p>طالب جامعي</p>
+    </header>
+    <section>
+        <h2>المعلومات الشخصية</h2>
+        <ul>
+            <li>الرقم الجامعي: 421003876</li>
+            <li>رقم الجوال: 0538395050</li>
+            <li>السكن: تبوك حي المروج</li>
+            <li>العمر: ٢٢</li>
+            <li>تاريخ الميلاد: 1424/1/8</li>
+            <li>مهند فيصل حمود حسين علي الشمساني العمراني</li>
+        </ul>
+    </section>
+</body>
+</html>
